@@ -16,8 +16,8 @@ permite ao usuário adicionar, editar e excluir tarefas, mantendo a organizaçã
 
 **Ferramentas Utilizadas**
 
-HTML – estrutura da aplicação
+- Angular – front-end, componentes e interatividade
 
-CSS – estilos e layout
+- Node.js – back-end, servidor e gerenciamento de dados
 
-JavaScript – lógica de inserção, edição e exclusão de tarefas
+- HTML / CSS / TypeScript – estrutura e estilo do app
